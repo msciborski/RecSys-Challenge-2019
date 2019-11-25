@@ -1,1 +1,4 @@
-*.csv
+groundTruth.csv
+my_train.csv
+test.csv
+train.csv
