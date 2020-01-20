@@ -8,3 +8,8 @@ Project for Recomendation Systems
 ### Results:
 ![Results](http://i.imgur.com/MfiEOdo.png)
 
+## Step-2:
+Change RecSys code to get better results (2a)
+### Results:
+![Results](http://i.imgur.com/mG0g8wL.png)
+
